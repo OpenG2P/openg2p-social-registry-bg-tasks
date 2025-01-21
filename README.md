@@ -1,2 +1,2 @@
-# openg2p-social-registry-bg-tasks
-Background Tasks for Social Registry - using Celery framework
+# openg2p-registry-bg-tasks
+Background Tasks for Registry - using Celery framework
