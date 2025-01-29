@@ -1,4 +1,4 @@
-#  openg2p-sr-models
+#  openg2p-registry-models
 
 [![Pre-commit Status](https://github.com/OpenG2P/openg2p-g2p-bridge-api/actions/workflows/pre-commit.yml/badge.svg?branch=develop)](https://github.com/OpenG2P/openg2p-g2p-bridge-api/actions/workflows/pre-commit.yml?query=branch%3Adevelop)
 [![Build Status](https://github.com/OpenG2P/openg2p-g2p-bridge-api/actions/workflows/test.yml/badge.svg?branch=develop)](https://github.com/OpenG2P/openg2p-g2p-bridge-api/actions/workflows/test.yml?query=branch%3Adevelop)

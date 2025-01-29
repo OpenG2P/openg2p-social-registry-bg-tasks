@@ -11,7 +11,7 @@ class TaskStatus(str, Enum):
     FAILED = "FAILED"
 
 
-class BackgroundTask(BaseModel):
+class G2PQueBackgroundTask(BaseModel):
     id: Optional[int]
     task_type: str
     worker_payload: dict
