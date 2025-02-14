@@ -5,7 +5,8 @@ on:
     branches-ignore:
       - develop
     tags-ignore:
-      - '*'
+      - '**'
+  workflow_dispatch:
 
 jobs:
   docker-build-for-branch:
