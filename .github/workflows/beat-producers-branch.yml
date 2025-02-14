@@ -14,7 +14,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       NAMESPACE: ${{ secrets.docker_hub_organisation || 'openg2p' }}
-      SERVICE_NAME: openg2p-registry-bg-tasks-producers
+      SERVICE_NAME: openg2p-registry-bg-tasks-producer
     steps:
       - uses: actions/checkout@v3
       - name: Docker build
